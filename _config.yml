@@ -19,13 +19,13 @@ theme:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "adrianmunoz1984@gmail.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble: "joeykirk"
   facebook: "joeykirk"
   flickr:
-  github: "madebymunsters/type-theme"
+  github: "https//adrianmunoz1984.github.io"
   google_plus:
   instagram: "joeykirk"
   linkedin:  # Full URL
@@ -40,7 +40,7 @@ theme:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-73893926-1" 
   disqus_shortname:
   katex: true # Enable if using math markup
 
